@@ -1,0 +1,168 @@
+.box1 { 
+    margin: 0;
+    font-size: 20px;
+    background: url(./Bg.png);
+    position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 0px;
+}
+.div-container {
+   
+    position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 165px;
+    top: 122px;
+
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+
+    color: rgb(255, 255, 255);
+
+  
+}
+.inportant{ 
+
+    position: absolute;
+    width: 445px;
+    height: 64px;
+    left: 165px;
+    top: 253px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 14px;
+    line-height: 140%;
+    /* or 20px */
+    
+    text-align: justify;
+    
+    color: rgb(255, 255, 255);}
+
+
+.box2{position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 500px;
+    
+    background: #FFFFFF;}
+
+.box3{position: absolute;
+    width: 1440px;
+    height: 500px;
+    left: 0px;
+    top: 1000px;
+    
+    background: #FAFAFA;}
+
+.slider{position: absolute;
+    width: 533px;
+    height: 311px;
+    left: 691px;
+    top: 94px;}
+.app{position: absolute;
+    width: 134px;
+    height: 32px;
+    left: 163px;
+    top: 357px;}
+
+.service{position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 785px;}
+.phone{position: absolute;
+    width: 540px;
+    height: 60px;
+    left: 735px;
+    top: 701px;}
+.last{position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 1020px;
+    top: 617px;}
+.first{position: absolute;
+    width: 255px;
+    height: 60px;
+    left: 735px;
+    top: 617px;
+    
+    /* Gray 1 */
+    
+    border: 1px solid #333333;
+    box-sizing: border-box;
+    border-radius: 6px;}
+    
+  
+.name{
+    position: absolute;
+width: 540px;
+height: 305px;
+left: 735px;
+top: 617px;
+}
+address{position: absolute;
+    width: 65px;
+    height: 22px;
+    left: 166px;
+    top: 1130px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 18px;
+    line-height: 22px;
+    /* identical to box height */
+    
+    text-align: center;
+    
+    color: #101010;
+    }
+.question{position: absolute;
+        width: 434px;
+        height: 64px;
+        left: 176px;
+        top: 713px;
+        
+        font-family: Lato;
+        font-style: normal;
+        font-weight: normal;
+        font-size: 14px;
+        line-height: 140%;
+        /* or 20px */
+        
+        text-align: justify;
+        
+        color: #000000;}
+ body{position: relative;
+    width: 1440px;
+    height: 1480px;
+    min-width: 100%;
+    min-height: 100%;
+    background: #FFFFFF;}
+.contact{position: absolute;
+    width: 445px;
+    height: 107px;
+    left: 176px;
+    top: 617px;
+    
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 36px;
+    line-height: 43px;
+    
+    color: #000000;
+    }
+.contact-conteinert{position: absolute;
+    width: 445px;
+    height: 160px;
+    left: 176px;
+    top: 617px;}
